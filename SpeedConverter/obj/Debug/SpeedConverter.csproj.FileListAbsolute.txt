@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\SpeedConverter\SpeedConverter\bin\Debug\SpeedConverter.exe.config
+C:\Users\User\source\repos\SpeedConverter\SpeedConverter\bin\Debug\SpeedConverter.exe
+C:\Users\User\source\repos\SpeedConverter\SpeedConverter\bin\Debug\SpeedConverter.pdb
+C:\Users\User\source\repos\SpeedConverter\SpeedConverter\obj\Debug\SpeedConverter.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SpeedConverter\SpeedConverter\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\SpeedConverter\SpeedConverter\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\SpeedConverter\SpeedConverter\obj\Debug\App.g.cs
+C:\Users\User\source\repos\SpeedConverter\SpeedConverter\obj\Debug\SpeedConverter_MarkupCompile.cache
+C:\Users\User\source\repos\SpeedConverter\SpeedConverter\obj\Debug\SpeedConverter.g.resources
+C:\Users\User\source\repos\SpeedConverter\SpeedConverter\obj\Debug\SpeedConverter.Properties.Resources.resources
+C:\Users\User\source\repos\SpeedConverter\SpeedConverter\obj\Debug\SpeedConverter.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SpeedConverter\SpeedConverter\obj\Debug\SpeedConverter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SpeedConverter\SpeedConverter\obj\Debug\SpeedConverter.exe
+C:\Users\User\source\repos\SpeedConverter\SpeedConverter\obj\Debug\SpeedConverter.pdb
+C:\Users\User\source\repos\SpeedConverter\SpeedConverter\obj\Debug\SpeedConverter_MarkupCompile.lref
+C:\Users\User\source\repos\SpeedConverter\SpeedConverter\obj\Debug\App.baml
